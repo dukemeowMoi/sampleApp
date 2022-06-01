@@ -5,9 +5,9 @@ Sample page for app store display
 https://expo.dev/@makachun0516/sampleApp?serviceType=classic&distribution=expo-go%20Learn%20more:%20https://expo.fyi/project-page
 
 ## System Requirement
-npm v8.1.2
-Node.js v16.13.1
-expo-cli v5.4.7
+npm v8.1.2 <br/>
+Node.js v16.13.1 <br/>
+expo-cli v5.4.7 <br/>
 
 ## Install
 Clone the respository and install expo-cli library
