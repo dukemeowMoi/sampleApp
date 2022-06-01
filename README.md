@@ -4,10 +4,19 @@ Sample page for app store display
 
 https://expo.dev/@makachun0516/sampleApp?serviceType=classic&distribution=expo-go%20Learn%20more:%20https://expo.fyi/project-page
 
-## Install
+## System Requirement
+npm v8.1.2
+Node.js v16.13.1
+expo-cli v5.4.7
 
+## Install
 Clone the respository and install expo-cli library
 
+Install the library
+```
+npm install
+```
+Start the metro bundler
 ```
 npm start
 ```
